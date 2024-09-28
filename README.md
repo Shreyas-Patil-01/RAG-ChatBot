@@ -62,6 +62,7 @@ cd chatbot
 
 ### Visual Representation
 ![Project Workflow](https://github.com/Shreyas-Patil-01/RAG-ChatBot/blob/main/workflow.jpg)
+![Project Workflow](https://github.com/Shreyas-Patil-01/RAG-ChatBot/blob/main/knowledge%20Graph%20generation.png)
 ![Tree structure of codebase](https://github.com/Shreyas-Patil-01/RAG-ChatBot/blob/main/tree%20structure.png)
 ![Tree structure of codebase](https://github.com/Shreyas-Patil-01/RAG-ChatBot/blob/main/chatbot%20output.png)
 
